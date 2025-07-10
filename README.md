@@ -21,8 +21,8 @@ The comparison result (unique filename) will be colored.
 
 ## Assumed sheet configuration.
 
-- **Column BÅF** File name of directory 1
-- **C column: ** File names in directory 2
+- **B Column** File name of directory 1
+- **C column** File names in directory 2
 - Unique file names will be colored in each column.
 
 ## Notes
